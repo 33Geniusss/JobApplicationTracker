@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>投递簿 · 我的申请记录</title>
+  <link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css">
+  <script defer src="/app.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="/" aria-label="投递簿首页"><span class="brand-icon">↗</span><span>投递簿<small>APPLICATION NOTEBOOK</small></span></a>
+    <div class="sidebar-label">我的工作台</div>
+    <nav aria-label="主导航">
+      <button class="nav-item active" id="nav-apps"><span>▤</span> 申请记录 <span id="nav-count" class="nav-count">0</span></button>
+      <button class="nav-item" id="nav-directory"><span>▦</span> 公司名录 <span class="tiny-tag">US</span></button>
+    </nav>
+    <div class="sidebar-note"><span class="note-spark">✳</span><h3>每一次投递，都有迹可循。</h3><p>记录已申请的岗位，<br>让下一步更清晰。</p></div>
+    <div class="sidebar-bottom"><div class="local-dot">仅保存在这台电脑</div><p>无需账号 · 离线可用</p><button class="quiet" id="backup-open">备份与恢复 <span>↗</span></button></div>
+  </aside>
+
+  <main>
+    <header class="topline"><span>个人求职工作台 <span class="divider">/</span> <span id="breadcrumb">申请记录</span></span><span class="today" id="today"></span></header>
+    <section class="page-heading"><div><div class="eyebrow">YOUR NEXT CHAPTER</div><h1 id="page-title">每一步，心中有数<span class="green">。</span></h1><p id="page-description">把申请留在这里，把精力留给下一次机会。</p></div><button class="primary" id="add-open"><span class="plus">＋</span> 记录新申请</button></section>
+    <section class="stats" aria-label="申请概览">
+      <div class="stat"><div><span>已申请岗位</span><strong id="stat-apps">0</strong></div><span class="stat-symbol">↗</span><small>每一次主动，都值得记录</small></div>
+      <div class="stat"><div><span>已申请公司</span><strong id="stat-companies">0</strong></div><span class="stat-symbol">▦</span><small>按公司整理，一眼看清</small></div>
+      <div class="stat"><div><span>公司候选名单</span><strong id="stat-directory">—</strong></div><span class="stat-symbol">✳</span><small>AI · 软件 · 硬件 · 机器人</small></div>
+    </section>
+
+    <section class="workspace">
+      <div class="toolbar"><label class="search"><span aria-hidden="true">⌕</span><input id="company-search" type="search" placeholder="输入公司名称，查询是否申请过…" aria-label="查询公司" autocomplete="off"><kbd>/</kbd></label><label class="category-label"><span class="sr-only">公司领域</span><select id="category"><option value="">所有领域</option></select></label></div>
+      <div class="search-notice" id="search-notice" hidden></div>
+      <div class="panels">
+        <section class="company-panel" aria-label="公司列表"><div class="panel-title"><h2 id="company-list-title">已申请公司</h2><span id="company-list-count">0</span></div><button class="all-companies selected" id="all-companies">全部申请<span>→</span></button><div id="company-list" class="company-list"></div></section>
+        <section class="record-panel" aria-label="岗位记录"><div class="records-heading"><div><h2 id="records-title">全部申请</h2><p id="records-subtitle">正在读取本地记录…</p></div><label class="role-search"><span aria-hidden="true">⌕</span><input type="search" id="role-search" aria-label="筛选岗位名称" placeholder="筛选岗位名称"></label></div><div id="record-list"></div></section>
+      </div>
+    </section>
+    <footer><span>你的申请，你的节奏。</span><button id="backup-quick">备份与恢复</button><span id="footer-status">本地申请记录本</span></footer>
+  </main>
+
+  <dialog id="application-dialog">
+    <form id="application-form">
+      <div class="dialog-heading"><div><div class="eyebrow">ONE STEP FORWARD</div><h2 id="form-title">记录新申请</h2></div><button type="button" class="icon-button close-dialog" aria-label="关闭">×</button></div>
+      <p class="dialog-intro">记下这次投递，下次查询就有答案。</p>
+      <label class="field">公司名称 <span class="required">*</span><input id="company-input" name="company" list="company-options" placeholder="搜索已有公司，或输入新公司" maxlength="160" required autocomplete="off"><datalist id="company-options"></datalist><small>支持英文名和常见中文别名；新公司会自动保存。</small></label>
+      <label class="field">岗位名称 <span class="required">*</span><input id="title-input" name="title" placeholder="例如：Machine Learning Engineer" maxlength="240" required></label>
+      <label class="field">岗位网址 <span class="optional">选填</span><input id="url-input" name="url" type="url" placeholder="https://careers.example.com/jobs/…" maxlength="2048"></label>
+      <label class="field">申请日期<input id="date-input" name="applied_date" type="date" required><small>默认为今天，可改为实际投递日期。</small></label>
+      <label class="field">申请状态<select id="status-input" name="status"><option value="reviewing">reviewing（按日期自动判断）</option><option value="refused">refused</option><option value="accepted">accepted</option></select><small>等待审核超过 30 天自动显示 long reviewing；手动设置的结果不会自动改变。</small></label>
+      <div id="form-error" class="error-box" role="alert" hidden></div>
+      <div id="duplicate-box" class="duplicate-box" hidden><strong>这份岗位，之前记录过。</strong><p id="duplicate-details"></p><label><input type="checkbox" id="allow-duplicate"> 这是另一批次或另一次申请，仍然保存</label></div>
+      <div class="dialog-actions"><button type="button" class="secondary close-dialog">取消</button><button type="submit" class="primary" id="save-button">保存申请</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="backup-dialog">
+    <div class="dialog-heading"><div><div class="eyebrow">KEEP A COPY</div><h2>备份与恢复</h2></div><button class="icon-button close-dialog" aria-label="关闭">×</button></div>
+    <p class="dialog-intro">给你的申请记录多留一份副本。</p>
+    <div class="backup-card"><h3>导出备份</h3><p>下载包含全部申请记录的 JSON 文件，包括公司、岗位、网址、日期和状态。</p><a class="primary" id="export-link" href="/api/backup" download>↓ 下载备份</a></div>
+    <div class="backup-card"><h3>从备份恢复</h3><p>选择本软件导出的备份。新记录会合并加入，完全相同的记录会跳过；发生内容冲突时会取消整个导入，保留现有数据。</p><label class="secondary file-label">↑ 选择备份文件<input id="restore-file" type="file" accept=".json,application/json"></label><div id="restore-preview" hidden><p id="restore-summary"></p><button id="restore-confirm" class="primary">确认合并恢复</button></div><div id="restore-result" class="restore-result" role="status"></div></div>
+    <p class="storage-note">数据文件：项目文件夹 / data / applications.sqlite3<br>关闭启动窗口会停止服务，已保存的记录不会丢失。</p>
+  </dialog>
+
+  <dialog id="delete-dialog"><div class="dialog-heading"><h2>删除这条申请？</h2><button class="icon-button close-dialog" aria-label="关闭">×</button></div><p id="delete-description"></p><p class="muted">删除后可通过此前导出的备份恢复。</p><div class="dialog-actions"><button class="secondary close-dialog">取消</button><button class="danger" id="delete-confirm">确认删除</button></div></dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+</body>
+</html>
