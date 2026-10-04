@@ -4,7 +4,7 @@
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <title>投递簿 · 我的申请记录</title>
   <link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css">
-  <script defer src="/app.js"></script>
+  <script type="module" src="/app.js"></script>
 </head>
 <body>
   <aside class="sidebar">
@@ -19,7 +19,7 @@
   </aside>
 
   <main>
-    <header class="topline"><span>个人求职工作台 <span class="divider">/</span> <span id="breadcrumb">申请记录</span></span><span class="today" id="today"></span></header>
+    <header class="topline"><span>个人求职工作台 <span class="divider">/</span> <span id="breadcrumb">申请记录</span></span><div class="topline-actions"><span class="today" id="today"></span><button id="language-toggle" class="language-button" type="button">English</button></div></header>
     <section class="page-heading"><div><div class="eyebrow">YOUR NEXT CHAPTER</div><h1 id="page-title">每一步，心中有数<span class="green">。</span></h1><p id="page-description">把申请留在这里，把精力留给下一次机会。</p></div><button class="primary" id="add-open"><span class="plus">＋</span> 记录新申请</button></section>
     <section class="stats" aria-label="申请概览">
       <div class="stat"><div><span>已申请岗位</span><strong id="stat-apps">0</strong></div><span class="stat-symbol">↗</span><small>每一次主动，都值得记录</small></div>

@@ -4,7 +4,11 @@ The application itself never downloads a directory or uses this dependency.
 import json
 from pathlib import Path
 import urllib.request
+import sys
 from bs4 import BeautifulSoup
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from localization import bilingual_catalog
 
 GROUPS = {
     "AI / Machine Learning": "OpenAI|Anthropic|xAI|Perplexity|Hugging Face|Scale AI|Together AI|Anyscale|Databricks|DataRobot|H2O.ai|C3 AI|SambaNova Systems|Cerebras Systems|Groq|Fireworks AI|Lambda|CoreWeave|Modal|Baseten|Replicate|Runway|Midjourney|Pika|Luma AI|Character.AI|Jasper|Writer|Glean|Hebbia|Harvey|Sierra|Decagon|Cognition|Anysphere|Replit|Codeium / Windsurf|Sourcegraph|Poolside|Magic|Imbue|Thinking Machines Lab|Safe Superintelligence|World Labs|Physical Intelligence|Skild AI|Adept|Snorkel AI|Labelbox|Arize AI|Fiddler AI|Arthur AI|WhyLabs|Weights & Biases|LangChain|LlamaIndex|Unstructured|Cleanlab|Humanloop|Galileo|Patronus AI|Braintrust|Vellum|Dust|Relevance AI|Cartesia|Deepgram|AssemblyAI|Speechmatics|PlayHT|Suno|Riffusion|Descript|Otter.ai|Twelve Labs|Landing AI|Roboflow|Clarifai|Voxel|Encord|Predibase|Lepton AI|Sakana AI",
@@ -67,7 +71,7 @@ def main():
         records.pop(candidates[-1])
     output = {"version": 1, "curated_date": "2026-10-03", "scope": "美国科技求职公司/招聘品牌候选名单；含子公司及被收购品牌，不保证全部独立存续或正在招聘。", "sources": [url, "https://www.nasdaq.com/NDXT"], "companies": sorted(records, key=lambda r: r["name"].casefold())}
     target = Path(__file__).resolve().parents[1] / "companies.json"
-    target.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    target.write_text(json.dumps(bilingual_catalog(output), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Saved {len(records)} companies, including {additions} YC US startup entries.")
 
 

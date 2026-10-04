@@ -1,10 +1,12 @@
 # 投递簿 · 本地求职申请记录
 
+**简体中文** | [English](README_EN.md)
+
 在这台 Windows 电脑的浏览器中记录已申请的公司和岗位。无需账号、无需联网、无需安装数据库，运行时只使用 Python 标准库。
 
 ## 启动与停止
 
-1. 打开 `D:\Study\Master\JobApplicationTracker`。
+1. 打开项目文件夹。本机路径为 `D:\Study\Master\JobApplicationTracker`；如果克隆到了其他位置，请使用你自己的项目路径。
 2. 双击 **`start.bat`**。浏览器会自动打开 <http://127.0.0.1:8765>。
 3. 正常启动时，保留启动窗口；最小化即可。重复启动会打开已有服务，不会创建另一套记录。
 4. 双击 **`stop.bat`**，或在启动窗口按 `Ctrl+C`，即可停止服务。关闭网页标签不会停止服务。
@@ -27,6 +29,17 @@ python app.py --stop --port 8766
 ```
 
 服务只监听 `127.0.0.1`，局域网中的其他电脑无法访问。页面的文字、样式、脚本均保存在本机，没有外部字体、统计或云端存储。点击你保存的岗位链接会打开外部招聘网站。
+
+## 中英文对照
+
+- 本文件为中文说明，[README_EN.md](README_EN.md) 为完整英文对照。修改说明时应同步更新两份文件。
+- 点击页面右上角 **English / 中文** 切换界面。首次使用默认中文，之后记住当前浏览器的选择；切换会重新加载页面。
+- 也可直接访问中文页面 <http://127.0.0.1:8765/?lang=zh> 或英文页面 <http://127.0.0.1:8765/?lang=en>。
+- 界面标题、按钮、表单、查询结果、分类、重复提醒、软件错误提示和备份流程都有两种语言。浏览器自身的日期控件、文件选择器和原生校验提示使用浏览器/操作系统语言。
+- 两种语言共用同一个数据库。公司和岗位名称等个人填写内容不会自动翻译或改写；英文界面也支持查询中文公司别名。
+- 界面和服务端提示集中在 `static/locales/zh.json` 与 `static/locales/en.json`，使用相同的消息键和参数。添加中文提示时，应同时添加英文翻译。
+- `companies.json` 中的 `scope_en`、`category_en`、`provenance_en` 与对应中文字段逐项对照。公司名称、来源网址和搜索别名共用，不另造一份公司数据。
+- Python/JavaScript 业务代码共用一份实现，通过语言资源提供对照，避免中英文副本功能不一致。运行测试可检查语言键、参数和页面静态文字的翻译覆盖。
 
 ## 记录和查询
 
@@ -61,7 +74,7 @@ python app.py --stop --port 8766
 - **25 个**美国早期 AI/ML 公司名称及所在地提取自 [YC 官方 Machine Learning 公司目录](https://www.ycombinator.com/companies/industry/machine-learning)，每条保留对应的官方公司资料链接。
 - 大型科技/芯片公司整理时参考了 [Nasdaq 科技指数资料](https://www.nasdaq.com/NDXT)。这些来源不是完整 300 家名单的逐条验证依据。
 - 名单含子公司、被收购公司或仍常见的招聘品牌；美国公司范围以求职用途整理，不能当作法律注册地数据库。名单不是正在招聘公司的清单，也不保证穷尽美国科技公司。
-- 名录数据在 `companies.json` 中；其中 `provenance` 说明来源，`aliases` 提供别名。运行时完全离线读取。
+- 名录数据在 `companies.json` 中；其中 `provenance` / `provenance_en` 说明来源，`aliases` 提供别名。运行时完全离线读取。
 - 用户可随时通过新增申请加入未收录公司。预设名录本身不创建任何申请记录。
 
 `scripts/build_company_catalog.py` 是开发时的生成脚本，需要联网和 `beautifulsoup4`，普通用户无需运行。重新生成名录只更新 JSON；现有数据库中的已存在公司不会被覆盖。修改现有公司别名应先备份，再针对数据库做迁移，不能通过删除用户数据库来更新。
@@ -102,17 +115,23 @@ python -m unittest discover -s tests -v
 python -m pip install playwright
 python tests/browser_check.py
 python tests/browser_status_check.py
+python tests/browser_language_check.py
 ```
 
 浏览器测试使用临时数据库，覆盖首次打开、公司名录、中文别名、新增申请、重复提醒与确认、编辑、岗位筛选、无记录查询、页面刷新、删除确认、备份下载与恢复、无效备份以及窄窗口布局。截图保存在 `test-results/`，其中的演示数据不会写入正式数据库。
 
+状态测试覆盖第 30/31 天的边界、页面保持打开时的自动更新、手动结果、持久保存和恢复自动审核。语言测试覆盖英文流程、语言选择记忆、双语数据共享、软件校验提示和窄窗口布局。
+
 ## 文件结构
 
 ```text
+README.md / README_EN.md      中英文对照说明
 app.py                        本地 HTTP 服务、SQLite 存储和输入校验
+localization.py               服务端提示翻译、公司名录双语字段
 start.bat / stop.bat           Windows 启动和停止入口
 companies.json                300 家公司候选数据及来源说明
 static/                       本地页面、样式和交互
+static/locales/               中英文语言资源
 data/applications.sqlite3     实际申请数据（第一次启动时创建）
 tests/                        后端与浏览器验收
 scripts/                      名录生成工具

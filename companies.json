@@ -12,7 +12,9 @@
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Abnormal AI",
@@ -21,35 +23,45 @@
         "Abnormal Security"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Adept",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Adobe",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Affirm",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Agility Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Agnost AI",
@@ -57,28 +69,36 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/agnost-ai",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Airbnb",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Airbyte",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Airtable",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Allus AI",
@@ -86,7 +106,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/allus-ai",
       "provenance": "YC Machine Learning 目录",
-      "location": "Atlanta, GA, USA"
+      "location": "Atlanta, GA, USA",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Amazon",
@@ -96,7 +118,9 @@
         "AWS"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "AMD",
@@ -106,7 +130,9 @@
         "超威"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Amika",
@@ -114,42 +140,54 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/amika",
       "provenance": "YC Machine Learning 目录",
-      "location": "New York City"
+      "location": "New York City",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Amplitude",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Analog Devices",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Anduril",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Anthropic",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Anyscale",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Anysphere",
@@ -158,7 +196,9 @@
         "Cursor"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Apple",
@@ -167,105 +207,135 @@
         "苹果"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Applied Intuition",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Applied Materials",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Apptronik",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Arista Networks",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Arize AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Arthur AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Asana",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "AssemblyAI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Astera Labs",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Astronomer",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Aurora",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Autodesk",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Ayar Labs",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Baseten",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Belvedir",
@@ -273,14 +343,18 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/belvedir",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Berkshire Grey",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Bezel",
@@ -288,7 +362,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/bezel",
       "provenance": "YC Machine Learning 目录",
-      "location": "New York City"
+      "location": "New York City",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Block",
@@ -297,14 +373,18 @@
         "Square"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Booking Holdings",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Boston Dynamics",
@@ -313,35 +393,45 @@
         "波士顿动力"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Boston Engineering",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Box",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Braintrust",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Brex",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Broadcom",
@@ -350,84 +440,108 @@
         "博通"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Built Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Burro",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "C3 AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Cadence Design Systems",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Carbon Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Cartesia",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Celestial AI",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Cerebras Systems",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Character.AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Chewy",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Chime",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Cisco",
@@ -436,35 +550,45 @@
         "思科"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Clarifai",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Cleanlab",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "ClickHouse",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Cloudflare",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "CoArena",
@@ -472,21 +596,27 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/coarena",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Cockroach Labs",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Coco Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Codeium / Windsurf",
@@ -496,70 +626,90 @@
         "Windsurf"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Cognition",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Cohesity",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Coinbase",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Collaborative Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Confluent",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "CoreWeave",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Covariant",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "CrowdStrike",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "d-Matrix",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Darwin",
@@ -567,28 +717,36 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/darwin",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Databricks",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Datadog",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "DataRobot",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Datoric",
@@ -596,35 +754,45 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/datoric",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "dbt Labs",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Decagon",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Deel",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Deepgram",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "DeepReach Inc.",
@@ -632,7 +800,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/deepreach-inc",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Dell Technologies",
@@ -642,56 +812,72 @@
         "戴尔"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Descript",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Dexterity",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Diligent Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Discord",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Docker",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "DoorDash",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Drata",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Dream",
@@ -699,98 +885,126 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/dream",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Dropbox",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Duolingo",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Dust",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Dusty Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "eBay",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Elastic",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Encord",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Etched",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Etsy",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Expedia Group",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "FarmWise",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Fiddler AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Figma",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Figure AI",
@@ -799,84 +1013,108 @@
         "Figure"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Fireworks AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Fivetran",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Flock Safety",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Fly.io",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Fortinet",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Galileo",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Gatik",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Gecko Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "GitHub",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "GitLab",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Glean",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Google",
@@ -886,49 +1124,63 @@
         "Alphabet"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Groq",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Gusto",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "H2O.ai",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Harvey",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "HashiCorp",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Hebbia",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Hewlett Packard Enterprise",
@@ -937,7 +1189,9 @@
         "HPE"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "hiloop",
@@ -945,7 +1199,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/hiloop",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "HP",
@@ -954,14 +1210,18 @@
         "惠普"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "HubSpot",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Hugging Face",
@@ -970,14 +1230,18 @@
         "HuggingFace"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Humanloop",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Hundred",
@@ -985,7 +1249,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/hundred",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Hyperspell",
@@ -993,7 +1259,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/hyperspell",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "IBM",
@@ -1002,21 +1270,27 @@
         "International Business Machines"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Imbue",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Instacart",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Instinct",
@@ -1024,7 +1298,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/instinct-xyz",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Intel",
@@ -1033,147 +1309,189 @@
         "英特尔"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Intrinsic",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Intuit",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Jasper",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Juniper Networks",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "KLA",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Kodiak Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Labelbox",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Lam Research",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Lambda",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Landing AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "LangChain",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Lattice Semiconductor",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "LaunchDarkly",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Lepton AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Lightelligence",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Lightmatter",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "LlamaIndex",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Locus Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Luma AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Lyft",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Lyon",
@@ -1181,28 +1499,36 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/lyon",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Magic",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Marvell",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "May Mobility",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Mentlio",
@@ -1210,7 +1536,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/mentlio",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Meta",
@@ -1220,14 +1548,18 @@
         "脸书"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Microchip Technology",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Micron Technology",
@@ -1237,7 +1569,9 @@
         "美光"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Microsoft",
@@ -1247,98 +1581,126 @@
         "MSFT"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Midjourney",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Mixpanel",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Modal",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "MongoDB",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "MotherDuck",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Motive",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Neon",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "NetApp",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Netflix",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Netlify",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Netskope",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Notion",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Nuro",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "NVIDIA",
@@ -1348,14 +1710,18 @@
         "Nvidia Corporation"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Okta",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "OpenAI",
@@ -1364,7 +1730,9 @@
         "Open AI"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Oracle",
@@ -1373,35 +1741,45 @@
         "甲骨文"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Otter.ai",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Outrider",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Palantir",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Palo Alto Networks",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Parasma",
@@ -1409,28 +1787,36 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/parasma",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Path Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Patronus AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "PayPal",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "PerfectBit, Inc.",
@@ -1438,91 +1824,117 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/perfectbit-inc",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Perplexity",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Physical Intelligence",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Pickle Robot",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Pika",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Pinterest",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Plaid",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "PlayHT",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Plus",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Poolside",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Postman",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Predibase",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Pure Storage",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Qualcomm",
@@ -1531,49 +1943,63 @@
         "高通"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Railway",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Ramp",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Realtime Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Reddit",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Redfin",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Redis",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "rekursiv.ai",
@@ -1581,63 +2007,81 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/rekursivai",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Reliable Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Render",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Replicate",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Replit",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Retool",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Riffusion",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Ripcord",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Rippling",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Risklytics",
@@ -1645,70 +2089,90 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/risklytics",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Robinhood",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Roblox",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Roboflow",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Rubrik",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Runway",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Safe Superintelligence",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Saildrone",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "SailPoint",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Salesforce",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "SambaNova Systems",
@@ -1717,196 +2181,252 @@
         "SambaNova"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Samsara",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Saronic",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Scale AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Seagate",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Segment",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "SentinelOne",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Sentry",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Serve Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "ServiceNow",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Shield AI",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Sierra",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "SiFive",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "SingleStore",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Skild AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Skydio",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Snap",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Snorkel AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Snowflake",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Snyk",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "SoFi",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Sourcegraph",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Standard Bots",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Starburst",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Starship Technologies",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Stripe",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Suno",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Supabase",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Supermicro",
@@ -1916,35 +2436,45 @@
         "超微"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Symbotic",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Synopsys",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Tanium",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Teleo",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Tesla",
@@ -1953,7 +2483,9 @@
         "特斯拉"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Texas Instruments",
@@ -1963,21 +2495,27 @@
         "德州仪器"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Thinking Machines Lab",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Together AI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Tokenless",
@@ -1985,14 +2523,18 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/tokenless",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Torc Robotics",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Tracer",
@@ -2000,7 +2542,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/tracer",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Traverse",
@@ -2008,7 +2552,9 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/traverse",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "TrueMile",
@@ -2016,49 +2562,63 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/truemile",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Twelve Labs",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Twilio",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Uber",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Unstructured",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Vanta",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Vellum",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Velum Labs",
@@ -2066,35 +2626,45 @@
       "aliases": [],
       "source": "https://www.ycombinator.com/companies/velum-labs",
       "provenance": "YC Machine Learning 目录",
-      "location": "San Francisco"
+      "location": "San Francisco",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "YC Machine Learning directory"
     },
     {
       "name": "Vercel",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Verkada",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Voxel",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Waymo",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Weights & Biases",
@@ -2104,105 +2674,136 @@
         "W&B"
       ],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Western Digital",
       "category": "芯片 / 计算机硬件",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Chips / Hardware",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "WhyLabs",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Wiz",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Workday",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "World Labs",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Writer",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "xAI",
       "category": "AI / Machine Learning",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "AI / Machine Learning",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Yelp",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Zapier",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Zillow",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Zipline",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Zoom",
       "category": "软件 / 云计算",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Software / Cloud",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Zoox",
       "category": "机器人 / 自动驾驶",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Robotics / Autonomous driving",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     },
     {
       "name": "Zscaler",
       "category": "互联网 / 金融科技 / 安全",
       "aliases": [],
       "source": "",
-      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态"
+      "provenance": "人工整理的候选名称；未逐一核验当前经营、独立法人或招聘状态",
+      "category_en": "Internet / Fintech / Security",
+      "provenance_en": "Manually curated candidate name; current operation, independent legal status, and hiring status have not been individually verified"
     }
-  ]
+  ],
+  "scope_en": "US technology company/recruiting-brand candidates, including subsidiaries and acquired brands; independent operation and current hiring are not guaranteed."
 }

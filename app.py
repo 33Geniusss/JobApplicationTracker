@@ -15,6 +15,7 @@ import uuid
 import webbrowser
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import urlsplit
+from localization import english
 
 ROOT = Path(__file__).resolve().parent
 APP_ID = "local-job-application-tracker"
@@ -211,6 +212,8 @@ class Handler(BaseHTTPRequestHandler):
     server_version = "ApplicationNotebook/1.0"
 
     def send(self, status, value, content_type="application/json; charset=utf-8", extra=None):
+        if isinstance(value, dict) and "error" in value and self.headers.get("X-Language") == "en":
+            value = {**value, "error": english(value["error"])}
         body = json.dumps(value, ensure_ascii=False).encode("utf-8") if not isinstance(value, bytes) else value
         self.send_response(status)
         self.send_header("Content-Type", content_type)
@@ -238,7 +241,7 @@ class Handler(BaseHTTPRequestHandler):
         if path == "/api/backup":
             name = "applications-" + dt.datetime.now().strftime("%Y%m%d-%H%M%S") + ".json"
             return self.send(200, self.server.store.export(), extra={"Content-Disposition": f'attachment; filename="{name}"'})
-        files = {"/": ("index.html", "text/html; charset=utf-8"), "/app.js": ("app.js", "text/javascript; charset=utf-8"), "/style.css": ("style.css", "text/css; charset=utf-8"), "/favicon.svg": ("favicon.svg", "image/svg+xml")}
+        files = {"/": ("index.html", "text/html; charset=utf-8"), "/app.js": ("app.js", "text/javascript; charset=utf-8"), "/i18n.js": ("i18n.js", "text/javascript; charset=utf-8"), "/locales/zh.json": ("locales/zh.json", "application/json; charset=utf-8"), "/locales/en.json": ("locales/en.json", "application/json; charset=utf-8"), "/style.css": ("style.css", "text/css; charset=utf-8"), "/favicon.svg": ("favicon.svg", "image/svg+xml")}
         if path in files:
             name, mime = files[path]
             return self.send(200, (ROOT / "static" / name).read_bytes(), mime)
